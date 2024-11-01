@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend-developer
 ------------------
 
-* ✉️  You can contact me at [https://t.me/username\_TA, alks.tatiana@gmail.com](mailto:https://t.me/username_TA, alks.tatiana@gmail.com)
+* ✉️  You can contact me at [alks.tatiana@gmail.com](mailto:https://alks.tatiana@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
 
