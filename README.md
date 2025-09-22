@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tatiana
+Hi! My name is Tatiana
 ===============================================================================================================================
 
 Frontend-developer
@@ -20,7 +20,6 @@ Frontend-developer
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
-![TypeScript](https://img.shields.io/badge/-TS-454443?style=for-the-badge&logo=typescript)
 ![Webpack](https://img.shields.io/badge/-webpack-454443?style=for-the-badge&logo=fwebpack)
 
 
