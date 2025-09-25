@@ -5,20 +5,20 @@ Frontend-developer
 ------------------
 
 * ✉️  You can contact me at [tatiana.webdev@gmail.com](mailto:https://tatiana.webdev@gmail.com) or https://t.me/username_TA
-* 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
 
-![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)   
+![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
+![JS](https://img.shields.io/badge/-JS-454443?style=for-the-badge&logo=javascript)
+![TS](https://img.shields.io/badge/-TS-454443?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-454443?style=for-the-badge&logo=redux)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
 ![Webpack](https://img.shields.io/badge/-webpack-454443?style=for-the-badge&logo=fwebpack)
 
