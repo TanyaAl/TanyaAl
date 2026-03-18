@@ -17,6 +17,7 @@ Frontend-developer
 ![TS](https://img.shields.io/badge/-TS-454443?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-454443?style=for-the-badge&logo=redux)
+![Angular](https://img.shields.io/badge/-Angular-454443?style=for-the-badge&logo=redux)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)
