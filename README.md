@@ -28,7 +28,3 @@ Frontend-developer
 
  <a href="https://www.linkedin.com/in/tatianajs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaAl&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/TanyaAl/github-readme-stats)
-
